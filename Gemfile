@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'addressable', '~>2.3'
+gem 'nokogiri', '~>1.6.6'
+gem 'toname', '~>0.1'
+gem 'similar_text'
